@@ -122,3 +122,10 @@
 .trending-img img {
   width: 100%;
 }
+.btn-buy {
+  width: 150px;
+  padding: 10px 0;
+  outline: none;
+  border: 0;
+  border-radius: 2px;
+}
