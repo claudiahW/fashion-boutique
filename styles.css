@@ -72,3 +72,22 @@
   line-height: 70px;
   padding: 0px 10px 0 10px;
 }
+
+/* Fashion Trends Section */
+
+.fashion-trends {
+  padding: 100px 0;
+}
+
+.fashion-box {
+  margin: 80px 0;
+}
+.title-style h1 {
+  padding: 40px 0;
+}
+.title-style {
+  margin: 0 auto 80px;
+  height: 120px;
+  width: 80%;
+  max-width: 700px;
+}
