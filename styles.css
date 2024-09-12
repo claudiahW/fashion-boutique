@@ -13,3 +13,6 @@
   margin-right: 10px;
   cursor: pointer;
 }
+.navbar-brand img {
+  width: 160px;
+}
