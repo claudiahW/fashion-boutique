@@ -16,3 +16,26 @@
 .navbar-brand img {
   width: 160px;
 }
+.navbar-brand {
+  left: 50%;
+  top: 25px;
+  transform: translateX(-50%);
+  position: absolute;
+}
+#header {
+  background: #f5f6fc;
+}
+.navbar {
+  padding: 0 35px !important;
+}
+.navbar-toggler {
+  border: none;
+  outline: none;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.navbar-toggler .fas {
+  font-size: 30px;
+  cursor: pointer;
+}
